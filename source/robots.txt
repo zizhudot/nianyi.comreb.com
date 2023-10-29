@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nianyi.comreb.com/sitemap.xml
