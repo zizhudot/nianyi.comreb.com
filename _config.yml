@@ -7,6 +7,10 @@ title: Nianyi
 subtitle: echnology news, product reviews, and purchase advice
 description: nianyi is a technology and product evaluation website that provides the latest technology news, product reviews, and purchase advice to help users make wise technology product choices.
 keywords:
+  - Technology
+  - product evaluation
+  - technology news
+  - purchase advice
 author: nianyi
 language: en
 timezone: Asia/Hong_Kong
@@ -29,10 +33,8 @@ category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
-  - Technology
-  - product evaluation
-  - technology news
-  - purchase advice
+  - google4cd21b0b8fe5bfc9.html
+
 # Writing
 new_post_name: :title.md # File name of new posts
 default_layout: post
