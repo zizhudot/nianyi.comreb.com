@@ -1,5 +1,5 @@
 ---
-title: 如何确保 Java 项目中的服务调用稳定可用
+title: How to Ensure Stable Service Call Availability in Java Projects
 date: 2023-10-31 20:28:28
 categories:
   - Technical section
