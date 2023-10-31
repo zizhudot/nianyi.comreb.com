@@ -7,7 +7,7 @@ tags:
   - 创业
   - 盈利
 description: 本文讨论了企业从诞生到衰老的生命周期,以及不同成长阶段可能面临的问题和应对之道。
-cover: https://oss.cyzone.cn/2021/0804/3c820e5f9eb27f768299c1e92c224c3e.jpeg?x-oss-process=image/format,jpeg
+cover: https://ts1.cn.mm.bing.net/th/id/R-C.fc913e0a5fff2e21433b5702c27e9925?rik=EpbGqRBAIkpNzA&riu=http%3a%2f%2fwww.windit.com.cn%2fUpload%2fimage%2f201807%2f20180727170526_2835.jpg&ehk=7p6XpRhElW9UY0yTlMb7wcp4YykO3Vy7aMBC%2bnIvw8c%3d&risl=&pid=ImgRaw&r=0
 ---
 
 ## 引言 
